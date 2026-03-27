@@ -1,29 +1,37 @@
-# 💫 About Me:
-👋 Hi, I'm Akshant Kumar 🚀<br>QA Automation Engineer | Software Test Engineer<br><br>I am a Software Test Engineer with 4+ years of experience specializing in manual and automation testing for web and mobile applications. I focus on building robust automation frameworks and ensuring high-quality software delivery throughout the SDLC & STLC.<br>
+# 👋 Hi, I'm Akshant Kumar 🚀:
+
+--- 
+🔍 QA Automation Engineer | 4+ Years of Expertise
+💻 Skilled in Selenium, TestNg, REST Assured, and more
+⚙️ Passionate about CI/CD, API Testing, Agile, and delivering quality software
+
+--- 
+# 🚀 About Me:
+<br>I specialize in building scalable, maintainable test automation frameworks and ensuring high-quality software delivery through rigorous testing—covering UI, API, performance, and backend systems. I thrive in Agile environments and love integrating automation in CI/CD pipelines to accelerate releases.<br>
 
 --- 
 # 🛠️ Skills & Tools: 
-Languages: Java, JavaScript<br>Automation Tools: Selenium, Playwright,Cypress<br>API Testing: Postman, Rest Assured<br>Performance Testing: JMeter<br>Version Control: Git, GitHub<br>CI/CD: Jenkins<br> 
+<br>Languages: Java, JavaScript<br>Automation Tools: Selenium, Playwright,Cypress<br>API Testing: Postman, Rest Assured<br>Performance Testing: JMeter<br>Version Control: Git, GitHub<br>CI/CD: Jenkins<br> 
 
 --- 
 # 🛠️ Expertise:
-UI Automation using Playwright (JavaScript), Cpress and Selenium (Java)<br>Framework design with POM, TestNg, Mocha, Data-Driven, and Parallel Execution<br>Strong understanding of SDLC & STLC processes<br>Test Case Design, Optimization & Execution<br>
+<br>UI Automation using Playwright (JavaScript), Cpress and Selenium (Java)<br>Framework design with POM, TestNg, Mocha, Data-Driven, and Parallel Execution<br>Strong understanding of SDLC & STLC processes<br>Test Case Design, Optimization & Execution<br>
 
 --- 
 # ⚡ Key Strength:
-Specialized in Test Case Optimization<br>Bridging the gap between functional and non-functional testing<br> 
+<br>Specialized in Test Case Optimization<br>Bridging the gap between functional and non-functional testing<br> 
 
 --- 
 # 🧰 Technical Stack:
-Category	                    Tools & Technologies<br>Languages	                Java, JavaScript, TypeScript, SQL<br>Web Automation	    Selenium WebDriver, Playwright, Cypress<br>Mobile Automation	    Appium (iOS & Android)<br>Frameworks	                TestNG, Cucumber (BDD), Mocha, Data-Driven, Maven<br>API & Tools	                Postman, Jira, Jenkins, Git, VS Code, Eclipse<br> 
+<br>Category	                    Tools & Technologies<br>Languages	                Java, JavaScript, TypeScript, SQL<br>Web Automation	    Selenium WebDriver, Playwright, Cypress<br>Mobile Automation	    Appium (iOS & Android)<br>Frameworks	                TestNG, Cucumber (BDD), Mocha, Data-Driven, Maven<br>API & Tools	                Postman, Jira, Jenkins, Git, VS Code, Eclipse<br> 
 
 --- 
 # 📈 What I Do:
-✔️ Design and execute test cases<br>✔️ Build automation frameworks<br>✔️ Perform API & UI testing<br>✔️ Debug and report defects efficiently<br>✔️ Ensure product quality and reliability<br> 
+<br>✔️ Design and execute test cases<br>✔️ Build automation frameworks<br>✔️ Perform API & UI testing<br>✔️ Debug and report defects efficiently<br>✔️ Ensure product quality and reliability<br> 
 
 ---
 # 🌱 Currently Learning:
-📌 Advanced Playwright & Design Patterns<br>📌 Test Architecture & Framework Design<br>📌 CI/CD Best Practices<br>
+<br>📌 Advanced Playwright & Design Patterns<br>📌 Test Architecture & Framework Design<br>📌 CI/CD Best Practices<br>
 
 ---
 # 📫 Connect With Me:
