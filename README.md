@@ -12,7 +12,7 @@
 
 ---
 # 🛠️ Skills & Tools: 
-<br>**Languages:**  Java, JavaScript <br>**Automation Tools:**  Selenium, Playwright,Cypress <br>**API Testing:** Postman, Rest Assured <br>**Performance Testing:** JMeter <br>**Version Control:** Git, GitHub <br>**CI/CD:** Jenkins<br> 
+<br>**Languages:**  Java, JavaScript, SQL <br>**Automation Tools:**  Selenium, Playwright,Cypress <br>** Frameworks:	** TestNG, Cucumber (BDD), Mocha, Data-Driven, Maven <br> **API Testing:** Postman, Rest Assured <br>**Performance Testing:** JMeter <br>**Version Control:** Git, GitHub <br>**CI/CD:** Jenkins<br> 
 
 --- 
 # 🛠️ Expertise:
@@ -21,10 +21,6 @@
 --- 
 # ⚡ Key Strength:
 <br>Specialized in Test Case Optimization<br>Bridging the gap between functional and non-functional testing<br> 
-
---- 
-# 🧰 Technical Stack:
-<br>Category	                    Tools & Technologies<br>Languages	                Java, JavaScript, TypeScript, SQL<br>Web Automation	    Selenium WebDriver, Playwright, Cypress<br>Mobile Automation	    Appium (iOS & Android)<br>Frameworks	                TestNG, Cucumber (BDD), Mocha, Data-Driven, Maven<br>API & Tools	                Postman, Jira, Jenkins, Git, VS Code, Eclipse<br> 
 
 --- 
 # 📈 What I Do:
