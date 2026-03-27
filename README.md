@@ -2,7 +2,8 @@
 👋 Hi, I'm Akshant Kumar 🚀<br>QA Automation Engineer | Software Test Engineer<br><br>I am a Software Test Engineer with 4+ years of experience specializing in manual and automation testing for web and mobile applications. I focus on building robust automation frameworks and ensuring high-quality software delivery throughout the SDLC & STLC.<br>
 
 --- 
-<br>**🛠️ Skills & Tools:**<br>Languages: Java, JavaScript<br>Automation Tools: Selenium, Playwright,Cypress<br>API Testing: Postman, Rest Assured<br>Performance Testing: JMeter<br>Version Control: Git, GitHub<br>CI/CD: Jenkins<br> 
+# 🛠️ Skills & Tools: 
+Languages: Java, JavaScript<br>Automation Tools: Selenium, Playwright,Cypress<br>API Testing: Postman, Rest Assured<br>Performance Testing: JMeter<br>Version Control: Git, GitHub<br>CI/CD: Jenkins<br> 
 
 --- 
 <br>**🛠️ Expertise:**<br>UI Automation using Playwright (JavaScript), Cpress and Selenium (Java)<br>Framework design with POM, TestNg, Mocha, Data-Driven, and Parallel Execution<br>Strong understanding of SDLC & STLC processes<br>Test Case Design, Optimization & Execution<br>
