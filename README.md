@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Akshant Kumar 🚀:
-
---- 
 🔍 QA Automation Engineer | 4+ Years of Expertise
+
 💻 Skilled in Selenium, TestNg, REST Assured, and more
+
 ⚙️ Passionate about CI/CD, API Testing, Agile, and delivering quality software
 
 --- 
