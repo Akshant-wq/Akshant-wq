@@ -3,11 +3,11 @@
 💻 Skilled in Selenium, TestNg, REST Assured, and more
 ⚙️ Passionate about CI/CD, API Testing, Agile, and delivering quality software
 
---- 
-#🚀 About Me:
+--
+# 🚀 About Me:
 <br>I specialize in building scalable, maintainable test automation frameworks and ensuring high-quality software delivery through rigorous testing—covering UI, API, performance, and backend systems. I thrive in Agile environments and love integrating automation in CI/CD pipelines to accelerate releases.<br>
 
---- 
+--
 # 🛠️ Skills & Tools: 
 <br>Languages: Java, JavaScript<br>Automation Tools: Selenium, Playwright,Cypress<br>API Testing: Postman, Rest Assured<br>Performance Testing: JMeter<br>Version Control: Git, GitHub<br>CI/CD: Jenkins<br> 
 
