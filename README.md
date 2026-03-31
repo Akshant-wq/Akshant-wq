@@ -2,7 +2,7 @@
 
 🔍 QA Automation Engineer | 4+ Years of Expertise
 
-💻 Skilled in Selenium, TestNg, REST Assured, and more
+💻 Skilled in Selenium, Playwright, Cypress, TestNg, Postman, and more
 
 ⚙️ Passionate about CI/CD, API Testing, Agile, and delivering quality software
  
