@@ -12,7 +12,7 @@
 
 ---
 # 🛠️ Skills & Tools: 
-<br>**Languages:**  Java, JavaScript, SQL <br>**Automation Tools:**  Selenium, Playwright,Cypress <br>**Frameworks:** TestNG, Cucumber (BDD), Mocha, Data-Driven, Maven <br> **API Testing:** Postman, Rest Assured <br>**Performance Testing:** JMeter <br>**Version Control:** Git, GitHub <br>**CI/CD:** Jenkins<br> **Test Management tool**: Jira<br>
+<br>**Languages:**  Java, JavaScript, SQL <br>**Automation Tools:**  Selenium, Playwright <br>**Frameworks:** TestNG, Cucumber (BDD), Cypress, Data-Driven, Maven <br> **API Testing:** Postman, Rest Assured <br>**Performance Testing:** JMeter <br>**Version Control:** Git, GitHub <br>**CI/CD:** Jenkins<br> **Test Management tool**: Jira<br>
 
 --- 
 # 🛠️ Expertise:
