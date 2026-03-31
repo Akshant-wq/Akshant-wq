@@ -12,11 +12,11 @@
 
 ---
 # 🛠️ Skills & Tools: 
-<br>**Languages:**  Java, JavaScript, SQL <br>**Automation Tools:**  Selenium, Playwright <br>**Frameworks:** TestNG, Cucumber (BDD), Cypress, Data-Driven, Maven <br> **API Testing:** Postman, Rest Assured <br>**Performance Testing:** JMeter <br>**Version Control:** Git, GitHub <br>**CI/CD:** Jenkins<br> **Test Management tool**: Jira<br>
+<br>**Languages:**  Java, JavaScript, SQL <br>**Automation Tools:**  Selenium, Playwright, Cypress <br>**Frameworks:** TestNG, Cucumber (BDD), Mocha, Data-Driven, Maven <br> **API Testing:** Postman, Rest Assured <br>**Performance Testing:** JMeter <br>**Version Control:** Git, GitHub <br>**CI/CD:** Jenkins<br> **Test Management tool**: Jira<br>
 
 --- 
 # 🛠️ Expertise:
-<br>UI Automation using Playwright (JavaScript), Cpress and Selenium (Java)<br>Framework design with POM, TestNg, Mocha, Data-Driven, and Parallel Execution<br>Strong understanding of SDLC & STLC processes<br>Test Case Design, Optimization & Execution<br>
+<br>UI Automation using Playwright (JavaScript), Cypress and Selenium (Java)<br>Framework design with POM, TestNg, Mocha, Data-Driven, and Parallel Execution<br>Strong understanding of SDLC & STLC processes<br>Test Case Design, Optimization & Execution<br>
 
 --- 
 # ⚡ Key Strength:
